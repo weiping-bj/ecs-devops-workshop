@@ -22,3 +22,6 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
+
+
+This is a new version modified by lwp
